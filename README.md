@@ -1,1 +1,1 @@
-# StockPricePrediction_using_LSTM_and_GRU
+# StockPricePrediction_using_LSTM and GRU
